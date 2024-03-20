@@ -13,8 +13,8 @@
 <h2>Tools and Technologies</h2>
 <ul>
     <li>Python</li>
-    <li>TensorFlow / PyTorch (Choose one)</li>
-    <li>scikit-learn</li>
+    <li>keras</li>
+    <li>matplotlib</li>
     <li>OpenCV</li>
     <li>Jupyter Notebooks</li>
 </ul>
