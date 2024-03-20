@@ -31,7 +31,7 @@
 <p>Contributions and improvements to the project are welcome! Feel free to fork the repository, make changes, and submit pull requests.</p>
 
 <h2>Credits</h2>
-<p>This project was initiated by [Your Name]. Credits to the creators of the dataset and libraries used in the project.</p>
+<p>This project was initiated by Akshay Wagh. Credits to the creators of the dataset and libraries used in the project.</p>
 
 <h2>License</h2>
 <p>This project is licensed under the [insert license type] License.</p>
