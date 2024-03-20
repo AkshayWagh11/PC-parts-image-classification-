@@ -1,6 +1,5 @@
 # PC-parts-image-classification-
 
-<h1>PC Parts Image Classification</h1>
 
 <h2>Overview</h2>
 <p>This project focuses on the classification of images depicting various PC parts using machine learning techniques. By training a model on a dataset of labeled images, we aim to accurately classify new images into categories such as CPU, GPU, RAM, motherboard, etc.</p>
